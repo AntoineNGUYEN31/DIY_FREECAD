@@ -223,3 +223,4 @@ if __name__=="__main__":
 #from PySide import QtGui
 #w = FreeCADGui.PySideUic.loadUi("dialog.ui")
 #w.show()
+#test
